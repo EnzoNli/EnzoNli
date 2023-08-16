@@ -1,6 +1,6 @@
 <h2>Bonjour à tous, je m'appelle Enzo ! 👋 </h2>
-<p><em>Etudiant à l'<a href="https://www.univ-artois.fr/">Université d'Artois</a> de Lens <img src="https://media1.giphy.com/media/fG5F4FCCRW5M6UZN43/giphy.gif?cid=ecf05e4747j6ney2zf48noqyg223mlii0ewm1ybvt2hst2iw&rid=giphy.gif&ct=g" width="30"></br>
-Passioné de la cybersécurité
+<p><em>Etudiant en Master Cybersécurité à l'UGA <img src="https://media1.giphy.com/media/fG5F4FCCRW5M6UZN43/giphy.gif?cid=ecf05e4747j6ney2zf48noqyg223mlii0ewm1ybvt2hst2iw&rid=giphy.gif&ct=g" width="30"></br>
+Passionné de la cybersécurité
 </p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-EnzoNli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-nulli-0a9816232/)](https://www.linkedin.com/in/enzo-nulli-0a9816232/)
