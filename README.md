@@ -1,5 +1,5 @@
 <h2>Bonjour à tous, je m'appelle Enzo ! 👋 </h2>
-<p><em>Etudiant en Master Cybersécurité à l'UGA <img src="https://media1.giphy.com/media/fG5F4FCCRW5M6UZN43/giphy.gif?cid=ecf05e4747j6ney2zf48noqyg223mlii0ewm1ybvt2hst2iw&rid=giphy.gif&ct=g" width="30"></br>
+<p><em>Etudiant en Master Informatique à l'UGA <img src="https://media1.giphy.com/media/fG5F4FCCRW5M6UZN43/giphy.gif?cid=ecf05e4747j6ney2zf48noqyg223mlii0ewm1ybvt2hst2iw&rid=giphy.gif&ct=g" width="30"></br>
 Passionné de la cybersécurité
 </p>
 
